@@ -1,4 +1,3 @@
-# levelupjava-wiki
-Contains all source codes of "Level-Up Java" 
+## Level-Up Java Wiki
 
-:link: www.levelupjava.netlify.app
+### Contains all sample codes of [Level-Up Java](https://levelupjava.netlify.app/).
